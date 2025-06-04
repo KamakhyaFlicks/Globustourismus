@@ -1,0 +1,648 @@
+{
+  "countries": {
+    "canada": {
+      "id": "canada",
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "continent": "North America",
+      "capital": "Ottawa",
+      "currency": "Canadian Dollar (CAD)",
+      "language": "English, French",
+      "timezone": "UTC-3.5 to UTC-8",
+      "description": "Canada stands as one of the world's most welcoming nations for immigrants and visitors alike, offering unparalleled opportunities for education, work, and permanent residence. Known for its stunning natural landscapes, multicultural society, and high quality of life, Canada consistently ranks among the top countries globally for livability and economic opportunity. The country's immigration-friendly policies, world-class healthcare system, excellent education institutions, and strong economy make it an ideal destination for those seeking a better future. From the bustling metropolitan areas of Toronto and Vancouver to the historic charm of Quebec City and the natural beauty of the Rocky Mountains, Canada offers diverse experiences and opportunities for every type of visitor and immigrant.",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "duration": "Up to 6 months",
+          "processingTime": "2-4 weeks",
+          "fee": "$100 CAD",
+          "description": "For leisure travel, visiting family, or tourism purposes"
+        },
+        {
+          "type": "Study Permit",
+          "duration": "Duration of study program",
+          "processingTime": "4-12 weeks",
+          "fee": "$150 CAD",
+          "description": "For international students enrolled in Canadian institutions"
+        },
+        {
+          "type": "Work Permit",
+          "duration": "Varies by job offer",
+          "processingTime": "2-16 weeks",
+          "fee": "$155 CAD",
+          "description": "For temporary foreign workers with job offers"
+        },
+        {
+          "type": "Express Entry",
+          "duration": "Permanent",
+          "processingTime": "6 months",
+          "fee": "$1,325 CAD",
+          "description": "Federal economic immigration program for skilled workers"
+        }
+      ],
+      "documentsRequired": [
+        "Valid passport (minimum 6 months validity)",
+        "Completed visa application form",
+        "Recent passport-sized photographs",
+        "Proof of financial support",
+        "Travel itinerary or invitation letter",
+        "Medical examination (if required)",
+        "Police clearance certificate",
+        "Educational credentials assessment",
+        "Language proficiency test results (IELTS/CELPIP)",
+        "Employment letter or job offer",
+        "Bank statements (last 6 months)",
+        "Travel insurance coverage"
+      ],
+      "keyFacts": [
+        "Second-largest country in the world by land area",
+        "Population of approximately 38 million",
+        "Two official languages: English and French",
+        "Universal healthcare system",
+        "Strong economy with low unemployment rates",
+        "Excellent education system with top-ranked universities"
+      ],
+      "popularDestinations": [
+        "Toronto - Financial and cultural hub",
+        "Vancouver - Pacific coast beauty and diversity",
+        "Montreal - French culture and historic charm",
+        "Calgary - Gateway to the Canadian Rockies",
+        "Ottawa - National capital with rich history",
+        "Quebec City - UNESCO World Heritage site"
+      ],
+      "immigrationPrograms": [
+        "Express Entry System",
+        "Provincial Nominee Program (PNP)",
+        "Quebec Immigration Programs",
+        "Family Class Sponsorship",
+        "Start-up Visa Program",
+        "Self-employed Persons Program"
+      ],
+      "embassyInfo": {
+        "website": "www.canada.ca",
+        "processingCenter": "Case Processing Centre",
+        "contactEmail": "info@cic.gc.ca",
+        "emergencyContact": "+1-613-996-8885"
+      },
+      "importantNotes": [
+        "Biometrics required for most visa applications",
+        "Medical exam may be required based on country of residence",
+        "Processing times may vary based on application volume",
+        "French language proficiency can provide additional points",
+        "Provincial nomination can significantly improve chances"
+      ]
+    },
+    "usa": {
+      "id": "usa",
+      "name": "United States",
+      "flag": "🇺🇸",
+      "continent": "North America",
+      "capital": "Washington, D.C.",
+      "currency": "US Dollar (USD)",
+      "language": "English",
+      "timezone": "UTC-5 to UTC-10",
+      "description": "The United States of America remains the world's leading destination for education, business, and opportunity, attracting millions of visitors, students, and immigrants annually. As the world's largest economy and home to prestigious universities, innovative companies, and diverse cultural experiences, the US offers unmatched opportunities for personal and professional growth. From the technological innovation of Silicon Valley to the financial powerhouse of Wall Street, from the entertainment capital of Hollywood to the political center of Washington D.C., America provides a platform for dreams to become reality. The country's commitment to innovation, entrepreneurship, and individual achievement continues to make it a beacon for those seeking to build a better future.",
+      "visaTypes": [
+        {
+          "type": "B-1/B-2 Tourist Visa",
+          "duration": "Up to 6 months",
+          "processingTime": "3-5 weeks",
+          "fee": "$160 USD",
+          "description": "For tourism, business meetings, or visiting family"
+        },
+        {
+          "type": "F-1 Student Visa",
+          "duration": "Duration of study",
+          "processingTime": "2-8 weeks",
+          "fee": "$160 USD",
+          "description": "For academic studies at US institutions"
+        },
+        {
+          "type": "H-1B Work Visa",
+          "duration": "3 years (renewable)",
+          "processingTime": "3-6 months",
+          "fee": "$460 USD",
+          "description": "For specialty occupation workers"
+        },
+        {
+          "type": "EB-5 Investor Visa",
+          "duration": "Permanent",
+          "processingTime": "18-24 months",
+          "fee": "$3,675 USD",
+          "description": "For investors creating jobs in the US"
+        }
+      ],
+      "documentsRequired": [
+        "Valid passport (minimum 6 months validity)",
+        "DS-160 online application form",
+        "Visa application fee receipt",
+        "Passport-style photograph",
+        "Interview appointment letter",
+        "Supporting documents for visa category",
+        "Financial evidence",
+        "Employment authorization (if applicable)",
+        "Educational transcripts and diplomas",
+        "SEVIS fee receipt (for students)",
+        "Sponsor documentation",
+        "Travel itinerary"
+      ],
+      "keyFacts": [
+        "World's largest economy",
+        "Population of approximately 331 million",
+        "50 states and federal district",
+        "Leading destination for international students",
+        "Home to top global universities and companies",
+        "Diverse geography from coast to coast"
+      ],
+      "popularDestinations": [
+        "New York City - The Big Apple and financial center",
+        "Los Angeles - Entertainment capital and beaches",
+        "San Francisco - Tech hub and Golden Gate Bridge",
+        "Chicago - Architecture and cultural attractions",
+        "Miami - International gateway and beaches",
+        "Washington D.C. - Nation's capital and monuments"
+      ],
+      "immigrationPrograms": [
+        "Employment-based Green Cards",
+        "Family-based Immigration",
+        "Diversity Visa Lottery",
+        "Investor Visas (EB-5)",
+        "Asylum and Refugee Programs",
+        "Temporary Protected Status"
+      ],
+      "embassyInfo": {
+        "website": "travel.state.gov",
+        "processingCenter": "National Visa Center",
+        "contactEmail": "support-usa@ustraveldocs.com",
+        "emergencyContact": "+1-202-501-4444"
+      },
+      "importantNotes": [
+        "Visa interview required for most applicants",
+        "ESTA required for Visa Waiver Program countries",
+        "Processing times vary by embassy location",
+        "Background checks required for all applicants",
+        "Maintain valid status throughout stay"
+      ]
+    },
+    "uk": {
+      "id": "uk",
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "continent": "Europe",
+      "capital": "London",
+      "currency": "British Pound (GBP)",
+      "language": "English",
+      "timezone": "UTC+0 to UTC+1",
+      "description": "The United Kingdom, comprising England, Scotland, Wales, and Northern Ireland, stands as a global leader in education, finance, and culture, offering exceptional opportunities for international visitors, students, and professionals. With a rich history spanning centuries, world-renowned universities including Oxford and Cambridge, and London's position as a major financial center, the UK continues to attract talent from around the world. The country's commitment to innovation, research, and cultural diversity makes it an ideal destination for those seeking quality education, career advancement, or cultural enrichment. From the historic landmarks of London to the scenic highlands of Scotland, the UK offers a unique blend of tradition and modernity.",
+      "visaTypes": [
+        {
+          "type": "Standard Visitor Visa",
+          "duration": "Up to 6 months",
+          "processingTime": "3 weeks",
+          "fee": "£95 GBP",
+          "description": "For tourism, business, or visiting family and friends"
+        },
+        {
+          "type": "Student Visa",
+          "duration": "Duration of course",
+          "processingTime": "3 weeks",
+          "fee": "£348 GBP",
+          "description": "For studying at UK educational institutions"
+        },
+        {
+          "type": "Skilled Worker Visa",
+          "duration": "Up to 5 years",
+          "processingTime": "3 weeks",
+          "fee": "£610-£1,408 GBP",
+          "description": "For skilled workers with job offers"
+        },
+        {
+          "type": "Global Talent Visa",
+          "duration": "Up to 5 years",
+          "processingTime": "3 weeks",
+          "fee": "£608 GBP",
+          "description": "For leaders and potential leaders in specific fields"
+        }
+      ],
+      "documentsRequired": [
+        "Valid passport or travel document",
+        "Completed online application form",
+        "Passport-style color photograph",
+        "Tuberculosis test results (if required)",
+        "Financial evidence",
+        "Accommodation details",
+        "Travel itinerary",
+        "Academic qualifications",
+        "English language proficiency certificate",
+        "Sponsorship documents",
+        "Criminal record certificate",
+        "Biometric information"
+      ],
+      "keyFacts": [
+        "Constitutional monarchy with parliamentary democracy",
+        "Population of approximately 67 million",
+        "Four constituent countries: England, Scotland, Wales, Northern Ireland",
+        "Home to world's oldest universities",
+        "Major global financial center",
+        "Rich cultural heritage and history"
+      ],
+      "popularDestinations": [
+        "London - Capital city and global financial hub",
+        "Edinburgh - Scottish capital with historic castle",
+        "Manchester - Industrial heritage and football",
+        "Cambridge - University city and academic excellence",
+        "Bath - Roman heritage and Georgian architecture",
+        "York - Medieval city with stunning cathedral"
+      ],
+      "immigrationPrograms": [
+        "Points-based Immigration System",
+        "EU Settlement Scheme",
+        "Family Visas",
+        "Investor and Business Visas",
+        "Ancestry Visas",
+        "Refugee and Humanitarian Protection"
+      ],
+      "embassyInfo": {
+        "website": "www.gov.uk/government/organisations/uk-visas-and-immigration",
+        "processingCenter": "UK Visas and Immigration",
+        "contactEmail": "ukvi.enquiries@homeoffice.gov.uk",
+        "emergencyContact": "+44-300-123-2241"
+      },
+      "importantNotes": [
+        "Biometric residence permit required for long-term stays",
+        "NHS surcharge applicable for most visa categories",
+        "English language requirement for most visa types",
+        "Points-based system for work visas",
+        "Brexit has changed EU citizen requirements"
+      ]
+    },
+    "australia": {
+      "id": "australia",
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "continent": "Oceania",
+      "capital": "Canberra",
+      "currency": "Australian Dollar (AUD)",
+      "language": "English",
+      "timezone": "UTC+8 to UTC+11",
+      "description": "Australia offers an exceptional quality of life, stunning natural beauty, and abundant opportunities for education, work, and permanent residence. Known for its laid-back lifestyle, world-class universities, strong economy, and multicultural society, Australia consistently ranks among the world's most livable countries. From the iconic Sydney Opera House and Harbour Bridge to the natural wonders of the Great Barrier Reef and Uluru, Australia provides diverse experiences in a safe and welcoming environment. The country's skilled migration programs, excellent healthcare system, and commitment to work-life balance make it an attractive destination for individuals and families seeking a fresh start in a prosperous nation.",
+      "visaTypes": [
+        {
+          "type": "Visitor Visa (subclass 600)",
+          "duration": "Up to 12 months",
+          "processingTime": "20-30 days",
+          "fee": "$145 AUD",
+          "description": "For tourism, business, or visiting family"
+        },
+        {
+          "type": "Student Visa (subclass 500)",
+          "duration": "Duration of course",
+          "processingTime": "4-6 weeks",
+          "fee": "$620 AUD",
+          "description": "For studying at Australian institutions"
+        },
+        {
+          "type": "Skilled Independent Visa (subclass 189)",
+          "duration": "Permanent",
+          "processingTime": "8-12 months",
+          "fee": "$4,115 AUD",
+          "description": "For skilled workers without sponsorship"
+        },
+        {
+          "type": "Working Holiday Visa (subclass 417)",
+          "duration": "12 months",
+          "processingTime": "2-4 weeks",
+          "fee": "$485 AUD",
+          "description": "For young people to work and travel"
+        }
+      ],
+      "documentsRequired": [
+        "Valid passport",
+        "Completed visa application form",
+        "Recent passport photographs",
+        "Health insurance coverage",
+        "Financial evidence",
+        "Health examinations (if required)",
+        "Character requirements documentation",
+        "Educational qualifications",
+        "English language test results",
+        "Skills assessment (for skilled visas)",
+        "Employment references",
+        "Biometric data"
+      ],
+      "keyFacts": [
+        "Sixth-largest country in the world",
+        "Population of approximately 25 million",
+        "Federal parliamentary constitutional monarchy",
+        "Strong economy with low unemployment",
+        "Universal healthcare system (Medicare)",
+        "Diverse wildlife and unique ecosystems"
+      ],
+      "popularDestinations": [
+        "Sydney - Harbour city with iconic landmarks",
+        "Melbourne - Cultural capital and coffee culture",
+        "Brisbane - Subtropical climate and river city",
+        "Perth - Western Australia's vibrant capital",
+        "Adelaide - Festival city with wine regions",
+        "Gold Coast - Beaches and theme parks"
+      ],
+      "immigrationPrograms": [
+        "SkillSelect System",
+        "State and Territory Nomination",
+        "Employer Sponsored Visas",
+        "Family Stream Migration",
+        "Business and Investment Visas",
+        "Humanitarian Program"
+      ],
+      "embassyInfo": {
+        "website": "www.homeaffairs.gov.au",
+        "processingCenter": "Department of Home Affairs",
+        "contactEmail": "info@homeaffairs.gov.au",
+        "emergencyContact": "+61-2-6196-0196"
+      },
+      "importantNotes": [
+        "Points-based system for skilled migration",
+        "Health and character requirements mandatory",
+        "Offshore application required for most visas",
+        "English language proficiency required",
+        "Skills assessment needed for skilled visas"
+      ]
+    },
+    "germany": {
+      "id": "germany",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "continent": "Europe",
+      "capital": "Berlin",
+      "currency": "Euro (EUR)",
+      "language": "German",
+      "timezone": "UTC+1 to UTC+2",
+      "description": "Germany stands as Europe's economic powerhouse and a global leader in engineering, technology, and innovation, offering exceptional opportunities for education, career development, and quality of life. Known for its world-renowned universities, strong industrial base, and commitment to research and development, Germany attracts international talent seeking excellence in education and professional growth. The country's central location in Europe, excellent infrastructure, comprehensive social benefits, and rich cultural heritage make it an ideal destination for students, professionals, and families. From the historic charm of Bavaria to the modern dynamism of Berlin, Germany offers diverse experiences while maintaining its reputation for precision, quality, and efficiency.",
+      "visaTypes": [
+        {
+          "type": "Schengen Visa",
+          "duration": "Up to 90 days",
+          "processingTime": "15 calendar days",
+          "fee": "€80 EUR",
+          "description": "For short-term visits, tourism, or business"
+        },
+        {
+          "type": "Student Visa",
+          "duration": "Duration of studies",
+          "processingTime": "4-12 weeks",
+          "fee": "€75 EUR",
+          "description": "For studying at German universities"
+        },
+        {
+          "type": "EU Blue Card",
+          "duration": "Up to 4 years",
+          "processingTime": "2-3 months",
+          "fee": "€140 EUR",
+          "description": "For highly qualified professionals"
+        },
+        {
+          "type": "Job Seeker Visa",
+          "duration": "6 months",
+          "processingTime": "4-12 weeks",
+          "fee": "€75 EUR",
+          "description": "For qualified professionals seeking employment"
+        }
+      ],
+      "documentsRequired": [
+        "Valid passport (minimum 3 months validity)",
+        "Completed visa application form",
+        "Recent biometric passport photographs",
+        "Travel health insurance",
+        "Proof of financial resources",
+        "Travel itinerary or invitation letter",
+        "Educational certificates and transcripts",
+        "German language proficiency certificate",
+        "Employment contract or job offer",
+        "Accommodation proof",
+        "Criminal background check",
+        "Medical certificate (if required)"
+      ],
+      "keyFacts": [
+        "Largest economy in Europe",
+        "Population of approximately 83 million",
+        "Federal parliamentary republic",
+        "Leading exporter of machinery and vehicles",
+        "Free or low-cost higher education",
+        "Strong social security system"
+      ],
+      "popularDestinations": [
+        "Berlin - Capital city with rich history",
+        "Munich - Bavarian culture and Oktoberfest",
+        "Hamburg - Port city and media center",
+        "Frankfurt - Financial hub of Europe",
+        "Cologne - Cultural center with historic cathedral",
+        "Dresden - Baroque architecture and art"
+      ],
+      "immigrationPrograms": [
+        "EU Blue Card Program",
+        "Skilled Immigration Act",
+        "Family Reunification",
+        "Student to Work Transition",
+        "Entrepreneur and Investor Visas",
+        "Asylum and Refugee Protection"
+      ],
+      "embassyInfo": {
+        "website": "www.germany.travel",
+        "processingCenter": "Federal Office for Migration and Refugees",
+        "contactEmail": "info@bamf.bund.de",
+        "emergencyContact": "+49-30-1817-0"
+      },
+      "importantNotes": [
+        "German language skills highly beneficial",
+        "Recognition of foreign qualifications may be required",
+        "Health insurance mandatory for all residents",
+        "Schengen area benefits for travel",
+        "Strong job market for skilled professionals"
+      ]
+    },
+    "armenia": {
+      "id": "armenia",
+      "name": "Armenia",
+      "flag": "🇦🇲",
+      "continent": "Asia",
+      "capital": "Yerevan",
+      "currency": "Armenian Dram (AMD)",
+      "language": "Armenian",
+      "timezone": "UTC+4",
+      "description": "Armenia, one of the world's oldest civilizations and the first nation to adopt Christianity as its official religion, offers a unique blend of ancient history, stunning landscapes, and modern opportunities. This landlocked country in the South Caucasus region has emerged as a growing destination for business, tourism, and cultural exploration. Known for its warm hospitality, rich cultural heritage, delicious cuisine, and beautiful monasteries, Armenia provides an authentic experience away from mass tourism. The country's strategic location between Europe and Asia, growing tech sector, and simplified visa processes make it an attractive destination for entrepreneurs, digital nomads, and those seeking to explore a lesser-known gem with deep historical roots.",
+      "visaTypes": [
+        {
+          "type": "Tourist Visa",
+          "duration": "21-120 days",
+          "processingTime": "5-10 working days",
+          "fee": "$31-$61 USD",
+          "description": "For tourism and visiting friends/family"
+        },
+        {
+          "type": "Business Visa",
+          "duration": "21-120 days",
+          "processingTime": "5-10 working days",
+          "fee": "$31-$61 USD",
+          "description": "For business meetings and conferences"
+        },
+        {
+          "type": "Transit Visa",
+          "duration": "Up to 10 days",
+          "processingTime": "3-5 working days",
+          "fee": "$31 USD",
+          "description": "For transit through Armenia"
+        },
+        {
+          "type": "e-Visa",
+          "duration": "21-120 days",
+          "processingTime": "3-5 working days",
+          "fee": "$31-$61 USD",
+          "description": "Electronic visa for eligible countries"
+        }
+      ],
+      "documentsRequired": [
+        "Valid passport (minimum 6 months validity)",
+        "Completed visa application form",
+        "Recent passport-sized photographs",
+        "Travel itinerary",
+        "Hotel reservation or invitation letter",
+        "Proof of financial means",
+        "Travel insurance",
+        "Return flight tickets",
+        "Bank statements",
+        "Employment letter (for business visa)",
+        "Company invitation (for business visa)",
+        "Health certificate (if required)"
+      ],
+      "keyFacts": [
+        "First Christian nation in the world (301 AD)",
+        "Population of approximately 3 million",
+        "Parliamentary republic",
+        "Rich cultural heritage spanning 3,000 years",
+        "Growing technology and startup ecosystem",
+        "Visa-free travel for many countries"
+      ],
+      "popularDestinations": [
+        "Yerevan - Pink city with ancient and modern charm",
+        "Geghard Monastery - UNESCO World Heritage site",
+        "Lake Sevan - High-altitude freshwater lake",
+        "Tatev Monastery - Medieval monastery complex",
+        "Garni Temple - Ancient Hellenistic temple",
+        "Dilijan - Switzerland of Armenia with forests"
+      ],
+      "immigrationPrograms": [
+        "Visa-free regime for many countries",
+        "e-Visa system for eligible nationalities",
+        "Investment and business programs",
+        "Ethnic Armenian repatriation program",
+        "Student exchange programs",
+        "Digital nomad friendly policies"
+      ],
+      "embassyInfo": {
+        "website": "www.mfa.am",
+        "processingCenter": "Ministry of Foreign Affairs",
+        "contactEmail": "info@mfa.am",
+        "emergencyContact": "+374-10-544-041"
+      },
+      "importantNotes": [
+        "Many nationalities can enter visa-free",
+        "e-Visa available for most countries",
+        "Relatively affordable destination",
+        "Growing English-speaking population",
+        "Safe and welcoming to tourists"
+      ]
+    },
+    "europe": {
+      "id": "europe",
+      "name": "European Union",
+      "flag": "🇪🇺",
+      "continent": "Europe",
+      "capital": "Brussels (EU Capital)",
+      "currency": "Euro (EUR) - 19 countries",
+      "language": "24 official languages",
+      "timezone": "UTC+0 to UTC+3",
+      "description": "The European Union represents one of the world's most integrated economic and political unions, comprising 27 member countries that offer unparalleled opportunities for education, work, travel, and cultural exchange. With the freedom of movement within the Schengen Area, the EU provides access to diverse cultures, languages, world-class universities, and thriving economies all within a single visa framework. From the romantic canals of Amsterdam to the historic architecture of Prague, from the Mediterranean beaches of Spain to the Nordic fjords of Finland, Europe offers an incredible diversity of experiences. The EU's commitment to human rights, environmental protection, and social welfare, combined with its rich history and modern innovation, makes it an attractive destination for students, professionals, and families seeking quality of life and opportunity.",
+      "visaTypes": [
+        {
+          "type": "Schengen Visa",
+          "duration": "Up to 90 days",
+          "processingTime": "15 calendar days",
+          "fee": "€80 EUR",
+          "description": "For short-term visits across 26 European countries"
+        },
+        {
+          "type": "National Visa (Type D)",
+          "duration": "More than 90 days",
+          "processingTime": "15-60 days",
+          "fee": "€80-€180 EUR",
+          "description": "For long-term stays in specific EU countries"
+        },
+        {
+          "type": "EU Blue Card",
+          "duration": "1-4 years",
+          "processingTime": "30-90 days",
+          "fee": "€140-€500 EUR",
+          "description": "For highly skilled professionals"
+        },
+        {
+          "type": "Student Visa",
+          "duration": "Duration of studies",
+          "processingTime": "15-60 days",
+          "fee": "€50-€180 EUR",
+          "description": "For studying at European institutions"
+        }
+      ],
+      "documentsRequired": [
+        "Valid passport (minimum 3 months validity)",
+        "Completed Schengen visa application",
+        "Recent passport photographs",
+        "Travel health insurance (minimum €30,000)",
+        "Proof of accommodation",
+        "Flight itinerary",
+        "Financial proof (bank statements)",
+        "Employment letter or student enrollment",
+        "Invitation letter (if applicable)",
+        "Travel purpose documentation",
+        "Criminal background check",
+        "Medical certificate (if required)"
+      ],
+      "keyFacts": [
+        "27 member countries in the European Union",
+        "26 countries in the Schengen Area",
+        "Population of approximately 447 million",
+        "World's largest single market",
+        "Multiple UNESCO World Heritage sites",
+        "Excellent public transportation networks"
+      ],
+      "popularDestinations": [
+        "Paris, France - City of Light and romance",
+        "Rome, Italy - Eternal City with ancient history",
+        "Barcelona, Spain - Gaudí architecture and beaches",
+        "Amsterdam, Netherlands - Canals and cultural diversity",
+        "Prague, Czech Republic - Medieval charm",
+        "Vienna, Austria - Imperial elegance and music"
+      ],
+      "immigrationPrograms": [
+        "EU Blue Card for skilled workers",
+        "Schengen Area mobility",
+        "Erasmus+ education programs",
+        "Family reunification programs",
+        "Investor and entrepreneur visas",
+        "Asylum and refugee protection"
+      ],
+      "embassyInfo": {
+        "website": "europa.eu",
+        "processingCenter": "Various national embassies",
+        "contactEmail": "Varies by country",
+        "emergencyContact": "112 (EU emergency number)"
+      },
+      "importantNotes": [
+        "Single visa allows travel across Schengen countries",
+        "Health insurance mandatory for visa approval",
+        "Processing times vary by embassy and season",
+        "Biometric data required for most applications",
+        "Different requirements for different EU countries"
+      ]
+    }
+  }
+}

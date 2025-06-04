@@ -1,0 +1,1293 @@
+{
+  "visaTypes": [
+    {
+      "id": "student",
+      "name": "Student Visa",
+      "shortDescription": "For academic studies and educational programs",
+      "longDescription": "A Student Visa is designed for individuals who wish to pursue academic studies, language courses, or educational programs in a foreign country. This visa category enables international students to enroll in accredited educational institutions, ranging from high schools and language schools to colleges and universities. Student visas typically allow for the duration of the academic program, with possibilities for extension based on academic progress. Many countries also permit limited work opportunities for international students, allowing them to gain practical experience related to their field of study. The application process generally requires proof of acceptance from a recognized educational institution, demonstration of sufficient financial resources to cover tuition and living expenses, and proof of intent to return to the home country upon completion of studies. Student visas serve as a gateway not only to quality education but also to cultural exchange, global networking, and potential career opportunities in the host country or internationally.",
+      "heroImage": "/images/student-visa-hero.jpg",
+      "icon": "GraduationCap",
+      "color": "blue",
+      "processingTime": "4-12 weeks",
+      "validity": "Duration of study program + grace period (varies by country)",
+      "successRate": "92%",
+      "popularDestinations": ["United States", "United Kingdom", "Canada", "Australia", "Germany", "France", "Japan"],
+      "pricing": {
+        "basic": {
+          "price": 499,
+          "currency": "USD",
+          "description": "Basic consultation and document review",
+          "includes": ["Initial consultation", "Document checklist", "Basic application review", "Email support"]
+        },
+        "standard": {
+          "price": 999,
+          "currency": "USD",
+          "description": "Comprehensive application assistance",
+          "includes": [
+            "Everything in Basic",
+            "Detailed document review",
+            "Application form filling assistance",
+            "SOP/Essay review",
+            "Phone and email support",
+            "Interview preparation"
+          ]
+        },
+        "premium": {
+          "price": 1499,
+          "currency": "USD",
+          "description": "End-to-end visa processing with priority support",
+          "includes": [
+            "Everything in Standard",
+            "Dedicated visa consultant",
+            "Accommodation assistance",
+            "Bank statement preparation guidance",
+            "Priority processing",
+            "Post-landing support",
+            "24/7 emergency assistance"
+          ]
+        }
+      },
+      "eligibility": [
+        "Acceptance letter from an accredited educational institution",
+        "Sufficient financial resources to cover tuition and living expenses",
+        "Clean background with no criminal record",
+        "Intent to return to home country after studies",
+        "Proficiency in the language of instruction (IELTS, TOEFL, etc.)",
+        "Valid passport with sufficient validity beyond the intended period of stay"
+      ],
+      "benefits": [
+        "Access to world-class education and research facilities",
+        "Potential work opportunities during and after studies",
+        "International exposure and networking",
+        "Pathway to permanent residency in some countries",
+        "Cultural exchange and language proficiency",
+        "Enhanced career prospects globally"
+      ],
+      "restrictions": [
+        "Limited work hours during academic sessions (usually 20 hours/week)",
+        "May require maintaining minimum course load",
+        "Health insurance requirements",
+        "Regular attendance and academic progress requirements",
+        "Limited duration of stay tied to program length"
+      ],
+      "faqs": [
+        {
+          "question": "Can I work while studying on a student visa?",
+          "answer": "Most countries allow international students to work part-time (typically 20 hours per week) during academic sessions and full-time during scheduled breaks. However, regulations vary by country, so it's important to check specific rules for your destination."
+        },
+        {
+          "question": "Can I extend my student visa?",
+          "answer": "Yes, student visas can typically be extended if you need additional time to complete your studies, enroll in a higher level program, or participate in optional practical training. Extensions require proof of continued enrollment and financial capability."
+        },
+        {
+          "question": "Do I need to show proof of funds for the entire duration of my studies?",
+          "answer": "Most countries require proof of funds for at least the first year of studies, though some may require evidence of financial capability for the entire program duration. This typically includes tuition fees plus living expenses."
+        },
+        {
+          "question": "Can my family members join me on a student visa?",
+          "answer": "Many countries allow immediate family members (spouse and dependent children) to accompany international students, though additional financial proof and separate dependent visa applications are usually required."
+        }
+      ],
+      "requiredDocuments": {
+        "personal": [
+          {
+            "name": "Valid Passport",
+            "description": "Must be valid for at least 6 months beyond intended stay",
+            "required": true,
+            "tips": ["Check expiration date", "Ensure at least 2-4 blank pages", "Make copies of all pages"]
+          },
+          {
+            "name": "Passport Photos",
+            "description": "Recent passport-sized photographs (usually 2-6 photos)",
+            "required": true,
+            "tips": [
+              "White background",
+              "No glasses or headwear unless religious",
+              "Specific size requirements vary by country"
+            ]
+          },
+          {
+            "name": "Birth Certificate",
+            "description": "Official birth certificate with apostille/legalization",
+            "required": true,
+            "tips": ["Get certified translation if not in English", "Apostille required for some countries"]
+          },
+          {
+            "name": "Police Clearance Certificate",
+            "description": "Criminal background check from home country",
+            "required": false,
+            "tips": ["Valid for 6 months", "May need from multiple countries if lived abroad"]
+          }
+        ],
+        "financial": [
+          {
+            "name": "Bank Statements",
+            "description": "Last 3-6 months of bank statements showing sufficient funds",
+            "required": true,
+            "tips": ["Show consistent balance", "Avoid large deposits before application", "Include all accounts"]
+          },
+          {
+            "name": "Scholarship Letter",
+            "description": "Official scholarship award letter if applicable",
+            "required": false,
+            "tips": ["Include scholarship amount", "Duration of scholarship", "Renewal conditions"]
+          },
+          {
+            "name": "Financial Sponsorship",
+            "description": "Sponsor's financial documents and affidavit of support",
+            "required": false,
+            "tips": ["Sponsor's bank statements", "Employment letter", "Tax returns"]
+          },
+          {
+            "name": "Education Loan Documents",
+            "description": "Loan approval letter and terms from financial institution",
+            "required": false,
+            "tips": ["Loan amount should cover tuition and living expenses", "Include repayment terms"]
+          }
+        ],
+        "educational": [
+          {
+            "name": "Academic Transcripts",
+            "description": "Official transcripts from all previous educational institutions",
+            "required": true,
+            "tips": ["Sealed envelopes from institution", "Certified translations required", "Include grading scale"]
+          },
+          {
+            "name": "Degree Certificates",
+            "description": "Original degree/diploma certificates",
+            "required": true,
+            "tips": [
+              "Apostille may be required",
+              "Certified translations",
+              "Include provisional certificates if final not available"
+            ]
+          },
+          {
+            "name": "Letter of Acceptance",
+            "description": "Official acceptance letter from educational institution",
+            "required": true,
+            "tips": ["Must be from recognized institution", "Include course details", "Start date and duration"]
+          },
+          {
+            "name": "English Proficiency Test",
+            "description": "IELTS, TOEFL, PTE, or other accepted test scores",
+            "required": true,
+            "tips": ["Check minimum score requirements", "Valid for 2 years", "Some institutions may waive requirement"]
+          },
+          {
+            "name": "Statement of Purpose",
+            "description": "Personal statement explaining study goals and career plans",
+            "required": true,
+            "tips": [
+              "Be specific about career goals",
+              "Explain choice of country/institution",
+              "Keep within word limit"
+            ]
+          }
+        ],
+        "medical": [
+          {
+            "name": "Medical Examination",
+            "description": "Health checkup from approved panel physician",
+            "required": true,
+            "tips": ["Use only approved doctors", "Valid for 12 months", "Include chest X-ray and blood tests"]
+          },
+          {
+            "name": "Vaccination Records",
+            "description": "Immunization history and required vaccinations",
+            "required": false,
+            "tips": ["Check country-specific requirements", "COVID-19 vaccination may be required"]
+          }
+        ],
+        "additional": [
+          {
+            "name": "Study Plan",
+            "description": "Detailed plan of studies and future career goals",
+            "required": false,
+            "tips": ["Include semester-wise course plan", "Career objectives", "Return plans to home country"]
+          },
+          {
+            "name": "Accommodation Proof",
+            "description": "Dormitory booking or rental agreement",
+            "required": false,
+            "tips": ["University accommodation preferred", "Include address and contact details"]
+          }
+        ]
+      }
+    },
+    {
+      "id": "work",
+      "name": "Work Visa",
+      "shortDescription": "For employment and professional opportunities",
+      "longDescription": "A Work Visa grants foreign nationals the legal right to work in a host country for a specified period. These visas are typically employer-sponsored, requiring a job offer from a company willing to hire international talent. Work visas come in various categories, including skilled worker visas, seasonal worker permits, intra-company transfers, and specialized occupation visas. The application process generally involves proving that the applicant possesses skills, qualifications, or experience that are in demand in the host country's labor market. Many countries implement labor market tests to ensure that foreign workers are not taking jobs that could be filled by local citizens. Work visas often serve as pathways to permanent residency, especially for those with in-demand skills or long-term employment prospects. The duration of work visas varies widely, from short-term seasonal permits to multi-year authorizations with possibilities for renewal. Accompanying family members may also be eligible for dependent visas, sometimes with their own work rights. Work visas not only facilitate global mobility for professionals but also help address labor shortages and promote knowledge transfer across international borders.",
+      "heroImage": "/images/work-visa-hero.jpg",
+      "icon": "Briefcase",
+      "color": "green",
+      "processingTime": "2-6 months",
+      "validity": "1-5 years (renewable)",
+      "successRate": "87%",
+      "popularDestinations": [
+        "United States",
+        "Canada",
+        "Australia",
+        "United Kingdom",
+        "Germany",
+        "United Arab Emirates",
+        "Singapore"
+      ],
+      "pricing": {
+        "basic": {
+          "price": 699,
+          "currency": "USD",
+          "description": "Basic work visa consultation",
+          "includes": [
+            "Initial eligibility assessment",
+            "Document checklist",
+            "Basic application review",
+            "Email support"
+          ]
+        },
+        "standard": {
+          "price": 1299,
+          "currency": "USD",
+          "description": "Comprehensive work visa assistance",
+          "includes": [
+            "Everything in Basic",
+            "Job market analysis",
+            "Resume/CV optimization",
+            "Application form assistance",
+            "Document preparation guidance",
+            "Interview preparation",
+            "Phone and email support"
+          ]
+        },
+        "premium": {
+          "price": 1999,
+          "currency": "USD",
+          "description": "End-to-end work visa processing with employer liaison",
+          "includes": [
+            "Everything in Standard",
+            "Dedicated immigration consultant",
+            "Employer documentation liaison",
+            "Labor certification assistance",
+            "Priority processing",
+            "Family visa support",
+            "Relocation guidance",
+            "24/7 emergency assistance"
+          ]
+        }
+      },
+      "eligibility": [
+        "Valid job offer from an employer in the destination country",
+        "Qualifications and experience relevant to the job offer",
+        "Employer willing to sponsor the work visa",
+        "Meeting minimum salary requirements (varies by country)",
+        "Clean background with no criminal record",
+        "Health requirements and medical clearance",
+        "Valid passport with sufficient validity"
+      ],
+      "benefits": [
+        "Legal authorization to work in a foreign country",
+        "International career experience and skill development",
+        "Competitive salary and benefits",
+        "Potential pathway to permanent residency",
+        "Family accompaniment options",
+        "Access to healthcare and social services",
+        "Global networking opportunities"
+      ],
+      "restrictions": [
+        "Usually tied to a specific employer",
+        "Limited job mobility without new visa application",
+        "May have geographic restrictions within the country",
+        "Renewal requirements and maximum duration limits",
+        "Tax obligations in both home and host countries",
+        "Dependent visa limitations for family members"
+      ],
+      "faqs": [
+        {
+          "question": "Can I change employers on a work visa?",
+          "answer": "This depends on the country and visa type. Some work visas are tied to a specific employer, requiring a new application if you change jobs. Others allow job changes within the same industry or after a certain period. Always check specific regulations before changing employment."
+        },
+        {
+          "question": "Can my family join me on a work visa?",
+          "answer": "Most countries allow immediate family members (spouse and dependent children) to join work visa holders through dependent visas. Spouses may be eligible for work authorization in some countries, though this varies significantly by destination."
+        },
+        {
+          "question": "How long can I stay on a work visa?",
+          "answer": "Work visa duration varies by country and visa category, typically ranging from 1-5 years with possibilities for renewal. Some countries have maximum cumulative periods (e.g., 6 years) after which you must either apply for permanent residency or leave the country."
+        },
+        {
+          "question": "Do I need to prove language proficiency for a work visa?",
+          "answer": "Language requirements vary by country and job type. Some countries require formal language testing for all work visa applicants, while others only require it for specific professions (like healthcare or education) or don't require it at all if the working language is English."
+        }
+      ],
+      "requiredDocuments": {
+        "personal": [
+          {
+            "name": "Valid Passport",
+            "description": "Must be valid for at least 6 months beyond intended stay",
+            "required": true,
+            "tips": ["Check expiration date", "Ensure blank pages available", "Make copies of all pages"]
+          },
+          {
+            "name": "Passport Photos",
+            "description": "Recent passport-sized photographs",
+            "required": true,
+            "tips": ["Follow specific country requirements", "Professional appearance"]
+          },
+          {
+            "name": "Birth Certificate",
+            "description": "Original or certified copy",
+            "required": false,
+            "tips": ["May need translation", "Apostille may be required"]
+          },
+          {
+            "name": "Marriage Certificate",
+            "description": "If applying with spouse",
+            "required": false,
+            "tips": ["Certified translation", "Apostille may be required"]
+          },
+          {
+            "name": "Police Clearance Certificate",
+            "description": "Criminal background check from home country",
+            "required": true,
+            "tips": ["Valid for 6 months", "May need from multiple countries"]
+          }
+        ],
+        "professional": [
+          {
+            "name": "Job Offer Letter",
+            "description": "Official employment offer from sponsoring employer",
+            "required": true,
+            "tips": ["Include salary details", "Job description", "Start date"]
+          },
+          {
+            "name": "Employment Contract",
+            "description": "Signed employment agreement",
+            "required": true,
+            "tips": ["Include terms and conditions", "Duration of employment", "Benefits package"]
+          },
+          {
+            "name": "Resume/CV",
+            "description": "Updated professional resume",
+            "required": true,
+            "tips": ["Highlight relevant experience", "Include all employment history", "Professional format"]
+          },
+          {
+            "name": "Work Experience Letters",
+            "description": "Employment verification from previous employers",
+            "required": true,
+            "tips": ["Include job title and duration", "Salary information", "Company letterhead"]
+          },
+          {
+            "name": "Professional Qualifications",
+            "description": "Certificates, licenses, and professional credentials",
+            "required": false,
+            "tips": ["Include professional licenses", "Certification from professional bodies", "Skills assessments"]
+          }
+        ],
+        "educational": [
+          {
+            "name": "Educational Certificates",
+            "description": "Degree certificates and academic transcripts",
+            "required": true,
+            "tips": ["Apostille may be required", "Certified translations", "Include all relevant qualifications"]
+          },
+          {
+            "name": "Skills Assessment",
+            "description": "Professional skills evaluation by recognized authority",
+            "required": false,
+            "tips": [
+              "Required for certain professions",
+              "Valid assessment authority",
+              "Include all supporting documents"
+            ]
+          }
+        ],
+        "financial": [
+          {
+            "name": "Bank Statements",
+            "description": "Recent bank statements showing financial stability",
+            "required": true,
+            "tips": ["Last 3-6 months", "Show sufficient funds", "Include all accounts"]
+          },
+          {
+            "name": "Tax Returns",
+            "description": "Income tax returns from previous years",
+            "required": false,
+            "tips": ["Last 2-3 years", "Show income history", "Include all sources of income"]
+          }
+        ],
+        "medical": [
+          {
+            "name": "Medical Examination",
+            "description": "Health checkup from approved panel physician",
+            "required": true,
+            "tips": ["Use only approved doctors", "Valid for 12 months", "Include required tests"]
+          },
+          {
+            "name": "Vaccination Records",
+            "description": "Proof of required vaccinations",
+            "required": false,
+            "tips": ["Check country-specific requirements", "May include COVID-19 vaccination"]
+          }
+        ]
+      }
+    },
+    {
+      "id": "tourist",
+      "name": "Tourist Visa",
+      "shortDescription": "For leisure travel and sightseeing",
+      "longDescription": "A Tourist Visa is designed for individuals planning to visit a foreign country temporarily for leisure, sightseeing, visiting friends and relatives, or other non-work-related activities. These visas are typically short-term, ranging from a few days to several months, with specific limitations on activities permitted during the stay. Tourist visas strictly prohibit employment in the host country and are not intended for those seeking to study or establish permanent residence. The application process generally requires demonstrating ties to the home country (such as employment, property ownership, or family connections) to prove the intent to return after the visit. Financial solvency is another key requirement, ensuring that visitors can support themselves during their stay without working illegally. Many countries offer different tourist visa options, including single-entry, multiple-entry, and transit visas, catering to various travel needs. Some destinations have implemented electronic visa systems or visa-on-arrival programs to facilitate tourism, while others maintain more stringent application procedures. Tourist visas serve as the foundation of international tourism, enabling cultural exchange, supporting local economies, and fostering global understanding through travel experiences.",
+      "heroImage": "/images/tourist-visa-hero.jpg",
+      "icon": "Plane",
+      "color": "purple",
+      "processingTime": "3 days - 4 weeks",
+      "validity": "30-180 days (varies by country)",
+      "successRate": "94%",
+      "popularDestinations": [
+        "Schengen Area",
+        "United States",
+        "Thailand",
+        "Japan",
+        "Australia",
+        "United Arab Emirates",
+        "United Kingdom"
+      ],
+      "pricing": {
+        "basic": {
+          "price": 149,
+          "currency": "USD",
+          "description": "Basic tourist visa application assistance",
+          "includes": ["Document checklist", "Basic application review", "Email support"]
+        },
+        "standard": {
+          "price": 299,
+          "currency": "USD",
+          "description": "Comprehensive tourist visa processing",
+          "includes": [
+            "Everything in Basic",
+            "Application form filling assistance",
+            "Document preparation guidance",
+            "Appointment scheduling",
+            "Phone and email support"
+          ]
+        },
+        "premium": {
+          "price": 499,
+          "currency": "USD",
+          "description": "VIP tourist visa service with expedited processing",
+          "includes": [
+            "Everything in Standard",
+            "Dedicated visa consultant",
+            "Expedited processing",
+            "Travel itinerary planning assistance",
+            "Hotel booking guidance",
+            "Travel insurance arrangement",
+            "24/7 emergency assistance"
+          ]
+        }
+      },
+      "eligibility": [
+        "Valid passport with sufficient validity beyond intended stay",
+        "Proof of sufficient funds for the duration of stay",
+        "Return ticket or onward travel booking",
+        "Accommodation arrangements for the entire stay",
+        "Clean travel history and no immigration violations",
+        "Strong ties to home country demonstrating intent to return",
+        "Travel insurance (required by some countries)"
+      ],
+      "benefits": [
+        "Legal entry for tourism and leisure purposes",
+        "Opportunity to explore new destinations and cultures",
+        "Visit friends and family abroad",
+        "Attend events, festivals, or conferences as a visitor",
+        "Multiple-entry options for frequent travelers",
+        "Relatively simple application process for many destinations"
+      ],
+      "restrictions": [
+        "No authorization to work or engage in paid activities",
+        "Limited duration of stay",
+        "May have single-entry restrictions",
+        "No access to public benefits or services",
+        "May require registration with local authorities upon arrival",
+        "Cannot change to other visa types while in-country (in most cases)"
+      ],
+      "faqs": [
+        {
+          "question": "How long can I stay on a tourist visa?",
+          "answer": "Tourist visa duration varies significantly by country, typically ranging from 30 to 180 days. Some countries offer extensions while others strictly enforce the initial period granted. Always check the specific duration allowed on your visa stamp or entry permit."
+        },
+        {
+          "question": "Can I extend my tourist visa if I want to stay longer?",
+          "answer": "Some countries allow tourist visa extensions while others do not. Extension policies, procedures, and maximum durations vary widely. It's best to apply for an extension well before your current visa expires and be prepared to demonstrate sufficient funds for the extended stay."
+        },
+        {
+          "question": "Do I need travel insurance for a tourist visa?",
+          "answer": "Many countries now require travel insurance with minimum coverage amounts (particularly for medical expenses and repatriation) as part of the tourist visa application. Even when not mandatory, travel insurance is highly recommended to cover unexpected medical expenses, trip cancellations, or lost belongings."
+        },
+        {
+          "question": "Can I visit multiple countries on one tourist visa?",
+          "answer": "This depends on the visa type. Schengen visas allow travel throughout 27 European countries, while most other tourist visas are country-specific. Regional visa arrangements exist in some parts of the world (like ASEAN or East Africa), but generally, you'll need separate visas for each country you plan to visit."
+        }
+      ],
+      "requiredDocuments": {
+        "personal": [
+          {
+            "name": "Valid Passport",
+            "description": "Must be valid for at least 6 months beyond travel dates",
+            "required": true,
+            "tips": ["Check expiration date", "Ensure blank pages available"]
+          },
+          {
+            "name": "Passport Photos",
+            "description": "Recent passport-sized photographs",
+            "required": true,
+            "tips": ["Follow embassy requirements", "Recent photos only"]
+          },
+          {
+            "name": "Visa Application Form",
+            "description": "Completed and signed application form",
+            "required": true,
+            "tips": ["Fill out completely", "Use black ink", "Sign where required"]
+          }
+        ],
+        "financial": [
+          {
+            "name": "Bank Statements",
+            "description": "Last 3 months bank statements",
+            "required": true,
+            "tips": ["Show sufficient funds for trip", "Consistent balance", "Include all accounts"]
+          },
+          {
+            "name": "Employment Letter",
+            "description": "Letter from employer confirming employment and leave",
+            "required": true,
+            "tips": ["Include salary details", "Confirm return date", "Company letterhead"]
+          },
+          {
+            "name": "Proof of Income",
+            "description": "Pay slips or tax returns",
+            "required": false,
+            "tips": ["Recent pay slips", "Official tax documents", "Translated if necessary"]
+          }
+        ],
+        "travel": [
+          {
+            "name": "Travel Itinerary",
+            "description": "Detailed travel plan including flights and accommodation",
+            "required": true,
+            "tips": ["Include all destinations", "Hotel bookings", "Return flight tickets"]
+          },
+          {
+            "name": "Flight Reservations",
+            "description": "Confirmed round-trip flight bookings",
+            "required": true,
+            "tips": ["Return or onward ticket", "Match travel dates on application"]
+          },
+          {
+            "name": "Hotel Reservations",
+            "description": "Confirmed accommodation for entire stay",
+            "required": true,
+            "tips": ["Cover entire period", "Include hotel contact information"]
+          }
+        ],
+        "additional": [
+          {
+            "name": "Travel Insurance",
+            "description": "Comprehensive travel insurance coverage",
+            "required": true,
+            "tips": ["Minimum coverage amount", "Valid for entire trip", "Include medical coverage"]
+          },
+          {
+            "name": "Invitation Letter",
+            "description": "Letter from host or tour operator",
+            "required": false,
+            "tips": ["Include host details", "Purpose of visit", "Accommodation arrangements"]
+          },
+          {
+            "name": "Proof of Ties to Home Country",
+            "description": "Documents showing reasons to return",
+            "required": false,
+            "tips": ["Property ownership", "Family ties", "Business commitments"]
+          }
+        ]
+      }
+    },
+    {
+      "id": "business",
+      "name": "Business Visa",
+      "shortDescription": "For business meetings and conferences",
+      "longDescription": "A Business Visa facilitates temporary entry into a foreign country for various business-related activities that do not constitute direct employment. These activities typically include attending meetings and conferences, negotiating contracts, exploring investment opportunities, participating in trade shows, conducting site visits, or engaging in short-term training. Business visas are distinct from work visas in that they do not permit the holder to enter an employment relationship or receive salary from a company in the host country. The application process generally requires documentation of the business purpose, such as invitation letters from business partners, conference registration, or meeting schedules. Applicants must also demonstrate financial solvency and ties to their home country to ensure they will return after completing their business activities. Business visas vary in duration, from short-term single-entry permits to long-term multiple-entry visas that facilitate frequent business travel. Some countries offer specific business visa categories based on bilateral agreements or economic partnerships. Business visas play a crucial role in facilitating international trade, investment, and commercial relationships, allowing business professionals to explore opportunities and maintain connections across borders without the more complex requirements of work authorization.",
+      "heroImage": "/images/business-visa-hero.jpg",
+      "icon": "Building",
+      "color": "orange",
+      "processingTime": "1-4 weeks",
+      "validity": "30 days - 10 years (multiple entry)",
+      "successRate": "91%",
+      "popularDestinations": [
+        "United States",
+        "China",
+        "United Kingdom",
+        "United Arab Emirates",
+        "Singapore",
+        "Germany",
+        "India"
+      ],
+      "pricing": {
+        "basic": {
+          "price": 299,
+          "currency": "USD",
+          "description": "Basic business visa consultation",
+          "includes": ["Document checklist", "Basic application review", "Email support"]
+        },
+        "standard": {
+          "price": 599,
+          "currency": "USD",
+          "description": "Comprehensive business visa processing",
+          "includes": [
+            "Everything in Basic",
+            "Application form assistance",
+            "Document preparation guidance",
+            "Business invitation letter templates",
+            "Appointment scheduling",
+            "Phone and email support"
+          ]
+        },
+        "premium": {
+          "price": 999,
+          "currency": "USD",
+          "description": "VIP business visa service with expedited processing",
+          "includes": [
+            "Everything in Standard",
+            "Dedicated business visa consultant",
+            "Expedited processing",
+            "Business meeting scheduling assistance",
+            "Hotel and transportation arrangements",
+            "Multiple-entry visa guidance",
+            "24/7 emergency assistance"
+          ]
+        }
+      },
+      "eligibility": [
+        "Valid business purpose (meetings, conferences, negotiations, etc.)",
+        "Invitation from business partners or conference organizers",
+        "Sufficient funds to cover business trip expenses",
+        "Clean travel history and no immigration violations",
+        "Strong ties to home country demonstrating intent to return",
+        "Valid passport with sufficient validity",
+        "Company documentation proving business relationship"
+      ],
+      "benefits": [
+        "Legal entry for business-related activities",
+        "Multiple-entry options for frequent business travelers",
+        "Longer validity periods than tourist visas in many countries",
+        "Ability to explore business opportunities and partnerships",
+        "Attend trade shows, conferences, and business meetings",
+        "Conduct site visits and business negotiations",
+        "Network with international business contacts"
+      ],
+      "restrictions": [
+        "No authorization to work or receive salary in host country",
+        "Limited to specific business activities",
+        "May have restrictions on duration of each stay",
+        "Cannot be used for employment purposes",
+        "May require business registration or sponsorship",
+        "Cannot be converted to work visa while in-country (in most cases)"
+      ],
+      "faqs": [
+        {
+          "question": "What's the difference between a business visa and a work visa?",
+          "answer": "A business visa allows temporary entry for business-related activities like meetings, conferences, and negotiations, but does not permit employment or receiving salary in the host country. A work visa explicitly authorizes employment and receiving compensation from a local employer."
+        },
+        {
+          "question": "Can I negotiate and sign contracts on a business visa?",
+          "answer": "Generally yes, you can negotiate and sign contracts on behalf of your foreign company while on a business visa. However, implementing those contracts by working in the host country would typically require a work visa. Specific permissions vary by country."
+        },
+        {
+          "question": "How long can I stay on a business visa?",
+          "answer": "Business visas typically allow stays of 30-90 days per visit, though the visa itself may be valid for multiple years (especially for countries like the US, which offers 10-year multiple-entry B1 visas). Each entry is subject to immigration officer discretion at the port of entry."
+        },
+        {
+          "question": "Can I apply for a business visa without a company invitation?",
+          "answer": "While an invitation strengthens your application, some countries allow business visa applications without formal invitations if you can clearly document your business purpose, such as conference registration, trade show participation, or meetings with potential business partners."
+        }
+      ],
+      "requiredDocuments": {
+        "personal": [
+          {
+            "name": "Valid Passport",
+            "description": "Must be valid for at least 6 months",
+            "required": true,
+            "tips": ["Check expiration date", "Ensure blank pages available"]
+          },
+          {
+            "name": "Passport Photos",
+            "description": "Recent passport-sized photographs",
+            "required": true,
+            "tips": ["Professional appearance", "Follow embassy requirements"]
+          },
+          {
+            "name": "Visa Application Form",
+            "description": "Completed and signed application form",
+            "required": true,
+            "tips": ["Fill out completely", "Use black ink", "Sign where required"]
+          }
+        ],
+        "professional": [
+          {
+            "name": "Business Invitation Letter",
+            "description": "Invitation from business partner or conference organizer",
+            "required": true,
+            "tips": ["Include meeting purpose", "Duration of visit", "Host company details"]
+          },
+          {
+            "name": "Company Registration",
+            "description": "Business registration documents",
+            "required": true,
+            "tips": ["Current registration certificate", "Company profile", "Business license"]
+          },
+          {
+            "name": "Employment Verification",
+            "description": "Letter confirming employment and business purpose",
+            "required": true,
+            "tips": ["Include job title", "Company authorization", "Business trip approval"]
+          },
+          {
+            "name": "Business Card",
+            "description": "Your professional business card",
+            "required": false,
+            "tips": ["Current position", "Company details", "Contact information"]
+          }
+        ],
+        "financial": [
+          {
+            "name": "Bank Statements",
+            "description": "Personal and/or company bank statements",
+            "required": true,
+            "tips": ["Last 3-6 months", "Show financial stability", "Company accounts if applicable"]
+          },
+          {
+            "name": "Business Financial Records",
+            "description": "Company financial statements and tax returns",
+            "required": false,
+            "tips": ["Annual financial statements", "Tax compliance certificates", "Audited accounts"]
+          }
+        ],
+        "travel": [
+          {
+            "name": "Travel Itinerary",
+            "description": "Detailed business trip plan",
+            "required": true,
+            "tips": ["Include all meetings", "Conference details", "Return flight information"]
+          },
+          {
+            "name": "Flight Reservations",
+            "description": "Confirmed round-trip flight bookings",
+            "required": true,
+            "tips": ["Return or onward ticket", "Match travel dates on application"]
+          },
+          {
+            "name": "Hotel Reservations",
+            "description": "Confirmed accommodation for entire stay",
+            "required": true,
+            "tips": ["Cover entire period", "Business-class accommodations"]
+          }
+        ],
+        "additional": [
+          {
+            "name": "Conference Registration",
+            "description": "Registration confirmation for business events",
+            "required": false,
+            "tips": ["Include event details", "Registration receipt", "Event schedule"]
+          },
+          {
+            "name": "Meeting Schedule",
+            "description": "Detailed schedule of business meetings",
+            "required": false,
+            "tips": ["Include company names", "Contact persons", "Meeting locations and times"]
+          },
+          {
+            "name": "Travel Insurance",
+            "description": "Business travel insurance coverage",
+            "required": true,
+            "tips": ["Adequate coverage amount", "Business activity coverage", "Medical insurance"]
+          }
+        ]
+      }
+    },
+    {
+      "id": "family",
+      "name": "Family Visa",
+      "shortDescription": "For family reunification and sponsorship",
+      "longDescription": "A Family Visa enables individuals to join their family members who are citizens, permanent residents, or legal temporary residents of a foreign country. These visas are designed to preserve family unity and facilitate reunification across international borders. Family visa categories typically include spouse visas, fiancé(e) visas, parent visas, child visas, and sometimes extended family visas for siblings or elderly dependents. The application process generally requires proving the family relationship through documentation such as marriage certificates, birth certificates, or adoption papers. The sponsor (family member in the host country) usually must demonstrate sufficient financial resources to support the incoming family member without relying on public benefits. Family visas often serve as pathways to permanent residency, with many countries offering accelerated routes to citizenship for immediate family members of citizens. Processing times vary widely, from a few months to several years, depending on the country, visa category, and quotas. While family visas primarily facilitate reunification, they may also grant work authorization, access to education, and social services in the host country. These visas reflect the recognition of family unity as a fundamental right in immigration policies worldwide, though eligibility criteria and waiting periods continue to evolve with changing immigration priorities.",
+      "heroImage": "/images/family-visa-hero.jpg",
+      "icon": "Heart",
+      "color": "pink",
+      "processingTime": "6-24 months",
+      "validity": "Varies (often leads to permanent residency)",
+      "successRate": "89%",
+      "popularDestinations": ["United States", "Canada", "United Kingdom", "Australia", "Germany", "France", "Sweden"],
+      "pricing": {
+        "basic": {
+          "price": 799,
+          "currency": "USD",
+          "description": "Basic family visa consultation",
+          "includes": [
+            "Initial eligibility assessment",
+            "Document checklist",
+            "Basic application review",
+            "Email support"
+          ]
+        },
+        "standard": {
+          "price": 1499,
+          "currency": "USD",
+          "description": "Comprehensive family visa processing",
+          "includes": [
+            "Everything in Basic",
+            "Application form assistance",
+            "Document preparation guidance",
+            "Relationship evidence review",
+            "Sponsor documentation assistance",
+            "Phone and email support"
+          ]
+        },
+        "premium": {
+          "price": 2499,
+          "currency": "USD",
+          "description": "End-to-end family visa service with legal support",
+          "includes": [
+            "Everything in Standard",
+            "Dedicated immigration consultant",
+            "Legal review of all documents",
+            "Interview preparation",
+            "Affidavit preparation",
+            "Appeal assistance if needed",
+            "Settlement guidance",
+            "24/7 emergency assistance"
+          ]
+        }
+      },
+      "eligibility": [
+        "Qualifying family relationship with sponsor",
+        "Sponsor meets minimum income requirements",
+        "Sponsor has legal status in destination country",
+        "No criminal inadmissibility issues",
+        "Medical clearance",
+        "Genuine relationship (for spouse/partner visas)",
+        "Meeting specific country requirements for family sponsorship"
+      ],
+      "benefits": [
+        "Family reunification",
+        "Potential pathway to permanent residency",
+        "Work authorization in many cases",
+        "Access to education and healthcare",
+        "Social integration support",
+        "Protection of family unity",
+        "Long-term settlement options"
+      ],
+      "restrictions": [
+        "Financial dependency on sponsor initially",
+        "Conditional status period in some countries",
+        "Potential waiting periods due to quotas",
+        "Sponsor liability for financial support",
+        "Limited social benefits access initially",
+        "Relationship verification requirements",
+        "May require maintaining the qualifying relationship for a certain period"
+      ],
+      "faqs": [
+        {
+          "question": "How long does family visa processing take?",
+          "answer": "Processing times vary significantly by country and visa category, ranging from a few months to several years. Spouse and dependent child visas are often prioritized, while sibling or parent categories may have longer waiting periods. Check with the specific immigration authority for current processing times."
+        },
+        {
+          "question": "What income does the sponsor need to show?",
+          "answer": "Sponsors typically need to demonstrate income at or above a specified threshold (often 100-125% of the poverty guideline for the household size). Some countries allow co-sponsors or use assets in addition to income to meet requirements. Documentation usually includes tax returns, employment verification, and bank statements."
+        },
+        {
+          "question": "Can family members work on a family visa?",
+          "answer": "Work authorization varies by country and visa type. Spouses of citizens or permanent residents often receive automatic work authorization, while other family members may need to apply separately. Some countries impose waiting periods before family members can legally work."
+        },
+        {
+          "question": "What happens if the relationship breaks down?",
+          "answer": "If a relationship breaks down before permanent residency is granted, the visa holder may lose their status unless they qualify for exceptions such as domestic violence provisions, humanitarian considerations, or having children who are citizens. Specific protections vary significantly by country."
+        }
+      ],
+      "requiredDocuments": {
+        "personal": [
+          {
+            "name": "Valid Passport",
+            "description": "Must be valid for at least 6 months",
+            "required": true,
+            "tips": ["Check expiration date", "Ensure blank pages available"]
+          },
+          {
+            "name": "Passport Photos",
+            "description": "Recent passport-sized photographs",
+            "required": true,
+            "tips": ["Family photos may be required", "Follow specific requirements"]
+          },
+          {
+            "name": "Birth Certificate",
+            "description": "Official birth certificate",
+            "required": true,
+            "tips": ["Apostille required", "Certified translation", "Original document"]
+          },
+          {
+            "name": "Marriage Certificate",
+            "description": "Official marriage certificate if applicable",
+            "required": false,
+            "tips": ["Apostille required", "Certified translation", "Recent certificate"]
+          }
+        ],
+        "relationship": [
+          {
+            "name": "Relationship Proof",
+            "description": "Evidence of family relationship",
+            "required": true,
+            "tips": ["Photos together", "Communication records", "Joint documents"]
+          },
+          {
+            "name": "Communication Evidence",
+            "description": "Proof of ongoing relationship",
+            "required": true,
+            "tips": ["Chat logs", "Call records", "Letters and emails"]
+          },
+          {
+            "name": "Joint Financial Documents",
+            "description": "Shared financial responsibilities",
+            "required": false,
+            "tips": ["Joint accounts", "Shared assets", "Insurance beneficiaries"]
+          }
+        ],
+        "sponsor": [
+          {
+            "name": "Sponsor Documents",
+            "description": "Sponsoring family member's documents",
+            "required": true,
+            "tips": ["Sponsor's passport copy", "Residence proof", "Financial documents"]
+          },
+          {
+            "name": "Affidavit of Support",
+            "description": "Legal commitment to provide financial support",
+            "required": true,
+            "tips": ["Notarized document", "Include financial commitment", "Legal format required"]
+          },
+          {
+            "name": "Sponsor's Immigration Status",
+            "description": "Proof of sponsor's legal status",
+            "required": true,
+            "tips": ["Citizenship certificate", "Permanent resident card", "Valid visa"]
+          }
+        ],
+        "financial": [
+          {
+            "name": "Sponsor's Financial Documents",
+            "description": "Bank statements and income proof of sponsor",
+            "required": true,
+            "tips": ["Last 6 months statements", "Employment letter", "Tax returns"]
+          },
+          {
+            "name": "Income Tax Returns",
+            "description": "Sponsor's tax filings for recent years",
+            "required": true,
+            "tips": ["Last 3 years", "All schedules", "Tax transcripts"]
+          },
+          {
+            "name": "Employment Verification",
+            "description": "Proof of sponsor's employment",
+            "required": true,
+            "tips": ["Employment letter", "Recent pay stubs", "Work contract"]
+          }
+        ],
+        "additional": [
+          {
+            "name": "Medical Examination",
+            "description": "Health checkup from approved physician",
+            "required": true,
+            "tips": ["Use approved doctors only", "Complete all required tests", "Submit within validity period"]
+          },
+          {
+            "name": "Police Clearance",
+            "description": "Criminal record check",
+            "required": true,
+            "tips": ["From all countries lived in", "Recent certificates", "Translations if needed"]
+          },
+          {
+            "name": "Biometrics",
+            "description": "Fingerprints and photo",
+            "required": true,
+            "tips": ["Schedule appointment early", "Bring all required documents", "Follow instructions carefully"]
+          }
+        ]
+      }
+    },
+    {
+      "id": "immigration",
+      "name": "Immigration",
+      "shortDescription": "For permanent residency and citizenship",
+      "longDescription": "Immigration pathways provide foreign nationals with opportunities to establish permanent residency in a new country, often with the eventual option of citizenship. Unlike temporary visas, immigration programs are designed for those seeking long-term or permanent relocation. These pathways typically fall into several categories: skilled immigration for those with valuable professional qualifications, family-sponsored immigration for relatives of citizens or permanent residents, investment immigration for those bringing significant capital or business expertise, humanitarian immigration for refugees and asylum seekers, and diversity programs that promote immigration from underrepresented countries. The application process is generally more comprehensive than for temporary visas, involving detailed background checks, medical examinations, and proof of financial self-sufficiency. Many countries use points-based systems that evaluate candidates based on factors such as age, education, work experience, language proficiency, and adaptability. Successful applicants receive permanent resident status (often called green cards, permanent residency, or landed immigrant status), which grants them the right to live, work, study, and access social services indefinitely, subject to certain residency requirements. After a specified period as permanent residents (typically 3-7 years), immigrants may apply for citizenship through naturalization, which confers additional rights such as voting and passport privileges. Immigration represents a significant life decision, offering new opportunities while requiring adaptation to a different culture, legal system, and often language.",
+      "heroImage": "/images/immigration-hero.jpg",
+      "icon": "Globe",
+      "color": "indigo",
+      "processingTime": "1-5 years",
+      "validity": "Permanent (with conditions)",
+      "successRate": "78%",
+      "popularDestinations": [
+        "Canada",
+        "Australia",
+        "New Zealand",
+        "United States",
+        "United Kingdom",
+        "Germany",
+        "Portugal"
+      ],
+      "pricing": {
+        "basic": {
+          "price": 1499,
+          "currency": "USD",
+          "description": "Basic immigration consultation and eligibility assessment",
+          "includes": [
+            "Comprehensive eligibility assessment",
+            "Immigration pathway recommendations",
+            "Points calculation (if applicable)",
+            "Document checklist",
+            "Initial strategy session",
+            "Email support"
+          ]
+        },
+        "standard": {
+          "price": 2999,
+          "currency": "USD",
+          "description": "Comprehensive immigration application processing",
+          "includes": [
+            "Everything in Basic",
+            "Complete application preparation",
+            "Document review and organization",
+            "Form filling assistance",
+            "Submission guidance",
+            "Status tracking",
+            "Phone and email support"
+          ]
+        },
+        "premium": {
+          "price": 4999,
+          "currency": "USD",
+          "description": "End-to-end immigration service with legal representation",
+          "includes": [
+            "Everything in Standard",
+            "Dedicated immigration lawyer",
+            "Legal representation throughout process",
+            "Customized immigration strategy",
+            "Interview preparation",
+            "Appeal representation if needed",
+            "Settlement and integration guidance",
+            "Post-landing services",
+            "Path to citizenship guidance",
+            "24/7 emergency assistance"
+          ]
+        }
+      },
+      "eligibility": [
+        "Meeting specific immigration program requirements",
+        "Qualifying education and work experience",
+        "Language proficiency in official language(s)",
+        "Sufficient settlement funds",
+        "Clean criminal record",
+        "Medical clearance",
+        "Intention to reside in the country",
+        "Meeting points threshold (for points-based systems)"
+      ],
+      "benefits": [
+        "Permanent right to live and work in the country",
+        "Access to healthcare and social services",
+        "Education rights for children",
+        "Freedom to change employers",
+        "Ability to sponsor family members",
+        "Path to citizenship",
+        "Protection under local laws",
+        "Travel flexibility with resident status"
+      ],
+      "restrictions": [
+        "Residency requirements to maintain status",
+        "Potential restrictions on political participation",
+        "Tax obligations",
+        "Limited access to certain government positions",
+        "Potential travel limitations compared to citizens",
+        "Reporting requirements for address changes",
+        "Possibility of status revocation for certain offenses"
+      ],
+      "faqs": [
+        {
+          "question": "What's the difference between permanent residency and citizenship?",
+          "answer": "Permanent residency grants the right to live and work indefinitely in a country but can be revoked under certain conditions and doesn't include voting rights or a passport. Citizenship is permanent, includes voting rights and a passport, and cannot typically be revoked except in extreme cases like fraud."
+        },
+        {
+          "question": "How long does it take to become a citizen after getting permanent residency?",
+          "answer": "Most countries require 3-7 years of permanent residency before citizenship eligibility. Additional requirements typically include physical presence for a certain period, language proficiency, knowledge of history and government, good moral character, and passing a citizenship test."
+        },
+        {
+          "question": "Can I lose my permanent resident status?",
+          "answer": "Yes, permanent residency can be lost through extended absence from the country (violating residency requirements), criminal activity, fraud in the application process, or becoming a public charge. Requirements to maintain status vary by country but typically involve physical presence for a specified period."
+        },
+        {
+          "question": "What happens if my immigration application is rejected?",
+          "answer": "If rejected, you may have options to appeal the decision, request reconsideration, or reapply after addressing the reasons for rejection. Some countries offer administrative appeals, tribunal hearings, or judicial reviews. Professional legal assistance is often advisable for appeals."
+        }
+      ],
+      "requiredDocuments": {
+        "personal": [
+          {
+            "name": "Valid Passport",
+            "description": "Must be valid for processing period",
+            "required": true,
+            "tips": ["Check expiration date", "Ensure blank pages available"]
+          },
+          {
+            "name": "Birth Certificate",
+            "description": "Official birth certificate with apostille",
+            "required": true,
+            "tips": ["Apostille required", "Certified translation", "Original document"]
+          },
+          {
+            "name": "Marriage Certificate",
+            "description": "If applicable",
+            "required": false,
+            "tips": ["Apostille required", "Certified translation", "Original document"]
+          },
+          {
+            "name": "Divorce Decree",
+            "description": "If previously married",
+            "required": false,
+            "tips": ["Court certified", "Certified translation", "All pages"]
+          },
+          {
+            "name": "Police Clearance Certificate",
+            "description": "From all countries lived in for 6+ months",
+            "required": true,
+            "tips": ["Valid for 12 months", "All countries of residence", "FBI clearance if applicable"]
+          }
+        ],
+        "educational": [
+          {
+            "name": "Educational Credentials",
+            "description": "All educational certificates and transcripts",
+            "required": true,
+            "tips": ["Credential evaluation required", "Apostille certificates", "Include all qualifications"]
+          },
+          {
+            "name": "Language Test Results",
+            "description": "English/French proficiency test scores",
+            "required": true,
+            "tips": ["IELTS, CELPIP, TEF accepted", "Valid for 2 years", "Meet minimum requirements"]
+          },
+          {
+            "name": "Educational Credential Assessment",
+            "description": "Evaluation of foreign credentials",
+            "required": true,
+            "tips": ["Use approved assessment organizations", "Include all degrees", "Allow sufficient processing time"]
+          }
+        ],
+        "professional": [
+          {
+            "name": "Resume/CV",
+            "description": "Detailed work history",
+            "required": true,
+            "tips": ["Chronological order", "No gaps", "Include all positions"]
+          },
+          {
+            "name": "Work Experience Letters",
+            "description": "Employment verification from all employers",
+            "required": true,
+            "tips": ["Include job duties", "Duration of employment", "Salary information"]
+          },
+          {
+            "name": "Professional Licenses",
+            "description": "Professional certifications and licenses",
+            "required": false,
+            "tips": ["Relevant to occupation", "Current and valid", "Professional body certification"]
+          },
+          {
+            "name": "Reference Letters",
+            "description": "Professional references",
+            "required": false,
+            "tips": ["From supervisors", "Detail skills and achievements", "Contact information included"]
+          }
+        ],
+        "financial": [
+          {
+            "name": "Proof of Funds",
+            "description": "Evidence of sufficient settlement funds",
+            "required": true,
+            "tips": ["Meet minimum requirements", "Liquid funds", "Source of funds explanation"]
+          },
+          {
+            "name": "Bank Statements",
+            "description": "6-12 months of statements",
+            "required": true,
+            "tips": ["All accounts", "Official bank letterhead", "Consistent funds"]
+          },
+          {
+            "name": "Income Tax Returns",
+            "description": "Last 3-5 years",
+            "required": true,
+            "tips": ["All schedules", "Assessment notices", "Proof of payment"]
+          },
+          {
+            "name": "Investment Documents",
+            "description": "For investment immigration",
+            "required": false,
+            "tips": ["Source of funds proof", "Investment plan", "Business proposal if applicable"]
+          }
+        ],
+        "medical": [
+          {
+            "name": "Medical Examination",
+            "description": "Comprehensive medical exam by panel physician",
+            "required": true,
+            "tips": ["Approved panel physician only", "Valid for 12 months", "Include all required tests"]
+          },
+          {
+            "name": "Vaccination Records",
+            "description": "Complete immunization history",
+            "required": true,
+            "tips": ["Meet country requirements", "Translated if necessary", "Certified copies"]
+          },
+          {
+            "name": "Medical Insurance",
+            "description": "Proof of coverage during initial period",
+            "required": false,
+            "tips": ["Comprehensive coverage", "Valid for arrival period", "Meet minimum requirements"]
+          }
+        ],
+        "additional": [
+          {
+            "name": "Biometrics",
+            "description": "Fingerprints and photo",
+            "required": true,
+            "tips": ["Schedule appointment early", "Bring required ID", "Follow all instructions"]
+          },
+          {
+            "name": "Settlement Plan",
+            "description": "Detailed plan for integration",
+            "required": false,
+            "tips": ["Housing arrangements", "Employment plans", "Community integration"]
+          },
+          {
+            "name": "Digital Photos",
+            "description": "According to specifications",
+            "required": true,
+            "tips": ["Correct dimensions", "Plain background", "Recent photos"]
+          },
+          {
+            "name": "Travel History",
+            "description": "Record of all international travel",
+            "required": true,
+            "tips": ["10-year history", "Include all countries", "Dates of entry/exit"]
+          }
+        ]
+      }
+    }
+  ]
+}
