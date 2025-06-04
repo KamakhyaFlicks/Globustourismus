@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import Navbar from './components/common/Navbar'
 import Home from './pages/Home'
@@ -9,7 +8,8 @@ import DocumentChecklist from './pages/DocumentChecklist.jsx'
 import VisaDetail from './pages/VisaDetail.jsx'
 import About from './pages/About.jsx'
 import CountryDetail from './pages/CountryDetail.jsx'
-import WhatsAppChat from './components/common/WhatsappChat.jsx'
+// import WhatsAppChat from './components/common/WhatsAppChat.jsx';
+
 function App() {
   return (
     <>
@@ -25,7 +25,7 @@ function App() {
         <Route path="/countries/:id" element={<CountryDetail/>} /> 
       </Routes>
       </Router>
-      <WhatsAppChat/>
+      {/* <WhatsAppChat/> */}
       <Footer/>
     </>
   )
