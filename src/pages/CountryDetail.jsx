@@ -17,7 +17,7 @@ import {
   Calendar,
   CreditCard,
 } from "lucide-react"
-import countryData from "../data/countrydata.json"
+import countryData from "../data/CountryData.json"
 
 const CountryDetail = () => {
   const { id } = useParams()
